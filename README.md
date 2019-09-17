@@ -1,2 +1,1 @@
-# fcc-npm
-FreeCodeCamp.org Challenges Manage Node.js projects and npm packages using package.json
+# Backend Challenges boilerplate - package.json
